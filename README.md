@@ -3,5 +3,5 @@
 ## console commands
 ```
 $ npm init
-$ npm instal gulp gulp-clean-css gulp-rename --save-dev
+$ npm install gulp gulp-clean-css gulp-rename --save-dev
 ```
